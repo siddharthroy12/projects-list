@@ -53,7 +53,36 @@
             "tags": ["HTML/CSS"],
             "link": "https://codepen.io/siddharthroy12/full/VwadXvR",
             "image": "https://raw.githubusercontent.com/siddharthroy12/projects-list/master/img/old_port.png"
+        },
+        {
+            "name": "Exercise Tracker",
+            "tags": ["Node JS","MongoDB/Mongoose"],
+            "link": "https://exercise-track-api.herokuapp.com/",
+            "image": "https://raw.githubusercontent.com/siddharthroy12/projects-list/master/img/exercise_tracker.png"
+        },
+        {
+            "name": "URL Shortner",
+            "tags": ["Node JS","MongoDB/Mongoose"],
+            "link": "http://urlsmol.herokuapp.com/",
+            "image": "https://raw.githubusercontent.com/siddharthroy12/projects-list/master/img/url_shortner.png"
+        },
+        {
+            "name": "Who am I?",
+            "tags": ["Node JS"],
+            "link": "https://api-whoami.herokuapp.com/",
+            "image": "https://raw.githubusercontent.com/siddharthroy12/projects-list/master/img/who_am_I.png"
+        },
+        {
+            "name": "Get Timestamp",
+            "tags": ["Node JS"],
+            "link": "https://get-unixutc.herokuapp.com/",
+            "image": "https://raw.githubusercontent.com/siddharthroy12/projects-list/master/img/timestamp.png"
+        },
+        {
+            "name": "Get File Metadata",
+            "tags": ["Node JS"],
+            "link": "https://get-file-metadata.herokuapp.com/",
+            "image": "https://raw.githubusercontent.com/siddharthroy12/projects-list/master/img/file_metadata.png"
         }
-
     ]
 }
