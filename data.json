@@ -2,13 +2,13 @@
     "projects": [
         {
             "name": "Pomodoro Clock",
-            "link": "https://pomodoro-clk.netlify.app/",
+            "link": "https://raw.githubusercontent.com/siddharthroy12/projects-list/master/img/pomodoro_clock.png",
             "image": "img/pomodoro_clock.png"
         },
         {
             "name": "Calculator",
             "link": "https://calculate-er.netlify.app/",
-            "image": "img/calculator.png"
+            "image": "https://raw.githubusercontent.com/siddharthroy12/projects-list/master/img/calculator.png"
         }
     ]
 }
