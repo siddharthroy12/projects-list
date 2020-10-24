@@ -1,0 +1,14 @@
+{
+    "projects": [
+        {
+            "name": "Pomodoro Clock",
+            "link": "https://pomodoro-clk.netlify.app/",
+            "image": "img/pomodoro_clock.png"
+        },
+        {
+            "name": "Calculator",
+            "link": "https://calculate-er.netlify.app/",
+            "image": "img/calculator.png"
+        }
+    ]
+}
