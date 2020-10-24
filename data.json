@@ -25,6 +25,12 @@
             "image": "https://raw.githubusercontent.com/siddharthroy12/projects-list/master/img/music_pad.png"
         },
         {
+            "name": "Breakout",
+            "tags": ["Javascript"],
+            "link": "https://breakout-colorful.netlify.app",
+            "image": "https://raw.githubusercontent.com/siddharthroy12/projects-list/master/img/breakout.png"
+        },
+        {
             "name": "Markdown Previewer",
             "tags": ["HTML/CSS","Javascript","React JS","Bootstrap"],
             "link": "https://markdown-live-viewer.netlify.app/",
