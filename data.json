@@ -1,6 +1,11 @@
 {
     "projects": [
         {
+            "name": "This Site",
+            "link": "https://siddharthroy.netlify.app/img/this_website.png",
+            "image": "https://raw.githubusercontent.com/siddharthroy12/projects-list/master/img/this_website.png"
+        },
+        {
             "name": "Pomodoro Clock",
             "link": "https://raw.githubusercontent.com/siddharthroy12/projects-list/master/img/pomodoro_clock.png",
             "image": "img/pomodoro_clock.png"
@@ -9,6 +14,32 @@
             "name": "Calculator",
             "link": "https://calculate-er.netlify.app/",
             "image": "https://raw.githubusercontent.com/siddharthroy12/projects-list/master/img/calculator.png"
+        },
+        {
+            "name": "Music Pad",
+            "link": "https://music-pad.netlify.app/",
+            "image": "https://raw.githubusercontent.com/siddharthroy12/projects-list/master/img/music_pad.png"
+        },
+        {
+            "name": "Markdown Previewer",
+            "link": "https://markdown-live-viewer.netlify.app/",
+            "image": "https://raw.githubusercontent.com/siddharthroy12/projects-list/master/img/markdown_previewer.png"
+        },
+        {
+            "name": "Qoute Generator",
+            "link": "https://gen-quote.netlify.app/",
+            "image": "https://raw.githubusercontent.com/siddharthroy12/projects-list/master/img/markdown_previewer.png"
+        },
+        {
+            "name": "Tic Tac Toe",
+            "link": "https://cross-and-circle.netlify.app/",
+            "image": "https://raw.githubusercontent.com/siddharthroy12/projects-list/master/img/tic_tac_toe.png"
+        },
+        {
+            "name": "My Old Portfolio",
+            "link": "https://codepen.io/siddharthroy12/full/VwadXvR",
+            "image": "https://raw.githubusercontent.com/siddharthroy12/projects-list/master/img/old_port.png"
         }
+
     ]
 }
