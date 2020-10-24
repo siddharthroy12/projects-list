@@ -7,8 +7,8 @@
         },
         {
             "name": "Pomodoro Clock",
-            "link": "https://raw.githubusercontent.com/siddharthroy12/projects-list/master/img/pomodoro_clock.png",
-            "image": "img/pomodoro_clock.png"
+            "link": "https://pomodoro-clk.netlify.app/",
+            "image": "https://raw.githubusercontent.com/siddharthroy12/projects-list/master/img/pomodoro_clock.png"
         },
         {
             "name": "Calculator",
