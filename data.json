@@ -2,41 +2,49 @@
     "projects": [
         {
             "name": "This Site",
-            "link": "https://siddharthroy.netlify.app/img/this_website.png",
+            "tags": ["HTML/CSS","Javascript","React JS","React Router","Material UI"],
+            "link": "https://siddharthroy.netlify.app/",
             "image": "https://raw.githubusercontent.com/siddharthroy12/projects-list/master/img/this_website.png"
         },
         {
             "name": "Pomodoro Clock",
+            "tags": ["HTML/CSS","Javascript","React JS","Material UI"],
             "link": "https://pomodoro-clk.netlify.app/",
             "image": "https://raw.githubusercontent.com/siddharthroy12/projects-list/master/img/pomodoro_clock.png"
         },
         {
             "name": "Calculator",
+            "tags": ["HTML/CSS","Javascript","React JS"],
             "link": "https://calculate-er.netlify.app/",
             "image": "https://raw.githubusercontent.com/siddharthroy12/projects-list/master/img/calculator.png"
         },
         {
             "name": "Music Pad",
+            "tags": ["HTML/CSS","Javascript","React JS","Material UI"],
             "link": "https://music-pad.netlify.app/",
             "image": "https://raw.githubusercontent.com/siddharthroy12/projects-list/master/img/music_pad.png"
         },
         {
             "name": "Markdown Previewer",
+            "tags": ["HTML/CSS","Javascript","React JS","Bootstrap"],
             "link": "https://markdown-live-viewer.netlify.app/",
             "image": "https://raw.githubusercontent.com/siddharthroy12/projects-list/master/img/markdown_previewer.png"
         },
         {
             "name": "Qoute Generator",
+            "tags": ["HTML/CSS","Javascript","JQuery","Bootstrap"],
             "link": "https://gen-quote.netlify.app/",
             "image": "https://raw.githubusercontent.com/siddharthroy12/projects-list/master/img/quote_generator.png"
         },
         {
             "name": "Tic Tac Toe",
+            "tags": ["HTML/CSS","Javascript","React JS"],
             "link": "https://cross-and-circle.netlify.app/",
             "image": "https://raw.githubusercontent.com/siddharthroy12/projects-list/master/img/tic_tac_toe.png"
         },
         {
             "name": "My Old Portfolio",
+            "tags": ["HTML/CSS"],
             "link": "https://codepen.io/siddharthroy12/full/VwadXvR",
             "image": "https://raw.githubusercontent.com/siddharthroy12/projects-list/master/img/old_port.png"
         }
