@@ -1,10 +1,22 @@
 {
     "projects": [
         {
+            "name": "Tinder Clone",
+            "tags": ["HTML/CSS","Javascript","React JS","Material UI","MongoDB/Mongoose","Node JS"],
+            "link": "tiner.netlify.app",
+            "image": "https://raw.githubusercontent.com/siddharthroy12/projects-list/master/img/tiner.png"
+        },
+        {
             "name": "This Site",
             "tags": ["HTML/CSS","Javascript","React JS","React Router","Material UI"],
             "link": "https://siddharthroy.netlify.app/",
             "image": "https://raw.githubusercontent.com/siddharthroy12/projects-list/master/img/this_website.png"
+        },
+        {
+            "name": "Shopping List App",
+            "tags": ["HTML/CSS","Javascript","React JS","REDUX","Material UI","MongoDB/Mongoose","Node JS"],
+            "link": "https://shopping-list3.herokuapp.com/",
+            "image": "https://raw.githubusercontent.com/siddharthroy12/projects-list/master/img/shopping_list.png"
         },
         {
             "name": "Pomodoro Clock",
@@ -67,21 +79,9 @@
             "image": "https://raw.githubusercontent.com/siddharthroy12/projects-list/master/img/url_shortner.png"
         },
         {
-            "name": "Who am I?",
-            "tags": ["Node JS"],
-            "link": "https://api-whoami.herokuapp.com/",
-            "image": "https://raw.githubusercontent.com/siddharthroy12/projects-list/master/img/who_am_I.png"
-        },
-        {
-            "name": "Get Timestamp",
-            "tags": ["Node JS"],
-            "link": "https://get-unixutc.herokuapp.com/",
-            "image": "https://raw.githubusercontent.com/siddharthroy12/projects-list/master/img/timestamp.png"
-        },
-        {
             "name": "Get File Metadata",
             "tags": ["Node JS"],
-            "link": "https://get-file-metadata.herokuapp.com/",
+            "link": "https://github.com/siddharthroy12/File-Metadata-API",
             "image": "https://raw.githubusercontent.com/siddharthroy12/projects-list/master/img/file_metadata.png"
         }
     ]
