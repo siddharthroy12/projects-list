@@ -55,7 +55,7 @@
             "image": "https://raw.githubusercontent.com/siddharthroy12/projects-list/master/img/markdown_previewer.png"
         },
         {
-            "name": "Qoute Generator",
+            "name": "Quote Generator",
             "tags": ["HTML/CSS","Javascript","JQuery","Bootstrap"],
             "link": "https://gen-quote.netlify.app/",
             "image": "https://raw.githubusercontent.com/siddharthroy12/projects-list/master/img/quote_generator.png"
