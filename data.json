@@ -83,12 +83,6 @@
             "tags": ["Node JS","MongoDB/Mongoose"],
             "link": "http://urlsmol.herokuapp.com/",
             "image": "https://raw.githubusercontent.com/siddharthroy12/projects-list/master/img/url_shortner.png"
-        },
-        {
-            "name": "Get File Metadata",
-            "tags": ["Node JS"],
-            "link": "https://github.com/siddharthroy12/File-Metadata-API",
-            "image": "https://raw.githubusercontent.com/siddharthroy12/projects-list/master/img/file_metadata.png"
         }
     ]
 }
