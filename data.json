@@ -7,10 +7,10 @@
             "image": "https://github.com/siddharthroy12/Shoptify/raw/main/uploads/screenshot.png"
         },
         {
-            "name": "Tinder Clone",
-            "tags": ["HTML/CSS","Javascript","React JS","Material UI","MongoDB/Mongoose","Node JS"],
-            "link": "https://tiner.netlify.app",
-            "image": "https://raw.githubusercontent.com/siddharthroy12/projects-list/master/img/tiner.png"
+            "name": "Messaging App",
+            "tags": ["HTML/CSS","Javascript","Socket IO","Node JS"],
+            "link": "https://litecord.herokuapp.com/",
+            "image": "https://github.com/siddharthroy12/LiteCord/raw/main/public/img/screenshot.png"
         },
         {
             "name": "Anonymous Chat",
@@ -23,12 +23,6 @@
             "tags": ["HTML/CSS","Javascript","React JS","React Router","Material UI"],
             "link": "https://siddharthroy.netlify.app/",
             "image": "https://raw.githubusercontent.com/siddharthroy12/projects-list/master/img/this_website.png"
-        },
-        {
-            "name": "Shopping List App",
-            "tags": ["HTML/CSS","Javascript","React JS","REDUX","Material UI","MongoDB/Mongoose","Node JS"],
-            "link": "https://shopping-list3.herokuapp.com/",
-            "image": "https://raw.githubusercontent.com/siddharthroy12/projects-list/master/img/shopping_list.png"
         },
         {
             "name": "Pomodoro Clock",
