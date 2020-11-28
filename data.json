@@ -13,6 +13,12 @@
             "image": "https://github.com/siddharthroy12/LiteCord/raw/main/public/img/screenshot.png"
         },
         {
+            "name": "Wildfire Tracker",
+            "tags": ["HTML/CSS","Javascript","React JS"],
+            "link": "https://wild-fire.netlify.app/",
+            "image": "https://raw.githubusercontent.com/siddharthroy12/projects-list/master/img/wildfire.png"
+        },
+        {
             "name": "Anonymous Chat",
             "tags": ["Javascript","React JS","MongoDB/Mongoose","Node JS"],
             "link": "https://post-anonymous.herokuapp.com/",
