@@ -22,7 +22,7 @@
             "name": "Weather App",
             "tags": ["HTML/CSS", "Javascript", "React JS"],
             "link": "https://weatha.netlify.app/",
-            "image": "https://github.com/siddharthroy12/weather-app/blob/main/public/img/screenshot.png"
+            "image": "https://raw.githubusercontent.com/siddharthroy12/weather-app/main/public/img/screenshot.png"
         },
         {
             "name": "Anonymous Chat",
