@@ -2,7 +2,7 @@
     "projects": [
         {
             "name": "eCommerce Platform",
-            "tags": ["HTML/CSS","Javascript","React JS","MongoDB/Mongoose","Node JS","Bootstrap","Redux"],
+            "tags": ["HTML/CSS","Javascript","React JS","MongoDB/Mongoose","Node JS","React Router","Bootstrap","Redux"],
             "link": "https://theshoptify.herokuapp.com/",
             "image": "https://github.com/siddharthroy12/Shoptify/raw/main/uploads/screenshot.png"
         },
