@@ -7,8 +7,14 @@
             "image": "https://github.com/siddharthroy12/Shoptify/raw/main/uploads/screenshot.png"
         },
         {
+            "name": "Social Media App",
+            "tags": ["HTML/CSS","Javascript","React JS","MongoDB/Mongoose","React Router","GraphQL","Express"],
+            "link": "https://solialy.herokuapp.com/",
+            "image": "https://github.com/siddharthroy12/socialy/raw/main/client/public/img/screenshot.png"
+        },
+        {
             "name": "Messaging App",
-            "tags": ["HTML/CSS","Javascript","Socket IO","Node JS"],
+            "tags": ["HTML/CSS","Javascript","Socket IO","Node JS","Express"],
             "link": "https://litecord.herokuapp.com/",
             "image": "https://github.com/siddharthroy12/LiteCord/raw/main/public/img/screenshot.png"
         },
@@ -26,7 +32,7 @@
         },
         {
             "name": "Anonymous Chat",
-            "tags": ["Javascript","React JS","MongoDB/Mongoose","Node JS"],
+            "tags": ["Javascript","React JS","MongoDB/Mongoose","Node JS","Express"],
             "link": "https://post-anonymous.herokuapp.com/",
             "image": "https://raw.githubusercontent.com/siddharthroy12/projects-list/master/img/anonymous_post.png"
         },
@@ -84,17 +90,5 @@
             "link": "https://codepen.io/siddharthroy12/full/VwadXvR",
             "image": "https://raw.githubusercontent.com/siddharthroy12/projects-list/master/img/old_port.png"
         },
-        {
-            "name": "Exercise Tracker",
-            "tags": ["Node JS","MongoDB/Mongoose"],
-            "link": "https://exercise-track-api.herokuapp.com/",
-            "image": "https://raw.githubusercontent.com/siddharthroy12/projects-list/master/img/exercise_tracker.png"
-        },
-        {
-            "name": "URL Shortner",
-            "tags": ["Node JS","MongoDB/Mongoose"],
-            "link": "http://urlsmol.herokuapp.com/",
-            "image": "https://raw.githubusercontent.com/siddharthroy12/projects-list/master/img/url_shortner.png"
-        }
     ]
 }
