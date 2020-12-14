@@ -7,10 +7,10 @@
             "image": "https://github.com/siddharthroy12/Shoptify/raw/main/uploads/screenshot.png"
         },
         {
-            "name": "Social Media App",
-            "tags": ["HTML/CSS","Javascript","React JS","MongoDB/Mongoose","React Router","GraphQL","Express"],
-            "link": "https://solialy.herokuapp.com/",
-            "image": "https://github.com/siddharthroy12/socialy/raw/main/client/public/img/screenshot.png"
+            "name": "Social Network App",
+            "tags": ["HTML/CSS","Javascript","React JS","MongoDB/Mongoose","React Router","Express","Bootstrap","Redux"],
+            "link": "https://royinstagramclone.herokuapp.com/",
+            "image": "https://raw.githubusercontent.com/siddharthroy12/insta-clone/main/frontend/public/img/screenshot.png"
         },
         {
             "name": "Messaging App",
