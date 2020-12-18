@@ -19,6 +19,12 @@
             "image": "https://github.com/siddharthroy12/LiteCord/raw/main/public/img/screenshot.png"
         },
         {
+            "name": "Social App (OLD)",
+            "tags": ["HTML/CSS","Javascript","React JS","MongoDB/Mongoose","React Router", "GraphQL"],
+            "link": "https://github.com/siddharthroy12/socialy",
+            "image": "https://github.com/siddharthroy12/socialy/raw/main/client/public/img/screenshot.png"
+        },
+        {
             "name": "Wildfire Tracker",
             "tags": ["HTML/CSS","Javascript","React JS"],
             "link": "https://wild-fire.netlify.app/",
