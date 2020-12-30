@@ -1,6 +1,12 @@
 {
     "projects": [
         {
+            "name": "Mini Blog",
+            "tags": ["HTML/CSS","Bootstrap","Python","Flask", "Postgresql"],
+            "link": "https://minbg.herokuapp.com/",
+            "image": "https://raw.githubusercontent.com/siddharthroy12/projects-list/master/img/blog.png"
+        },
+        {
             "name": "eCommerce Platform",
             "tags": ["HTML/CSS","Javascript","React JS","MongoDB/Mongoose","Node JS","React Router","Bootstrap","Redux","Express"],
             "link": "https://theshoptify.herokuapp.com/",
